@@ -9,12 +9,20 @@ Have fun and test your pet knowledge with quick, colorful quizzes!
 - 🚀 Track your scores and answers
 
 ---
+## 🚀 Getting Started
 
+```bash
 # Clone the repository
-git clone  https://github.com/xunknown0/petquest-app.git
+git clone  https://github.com/xunknown0/mystiq-app.git
 
 # Navigate into the project folder
-cd petquest-app
+cd mystiq-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
 
 # Install dependencies
 flutter pub get
