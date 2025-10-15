@@ -13,10 +13,10 @@ Have fun and test your pet knowledge with quick, colorful quizzes!
 
 ```bash
 # Clone the repository
-git clone  https://github.com/xunknown0/mystiq-app.git
+git clone  https://github.com/xunknown0/petquest-app.git
 
 # Navigate into the project folder
-cd mystiq-app
+cd petquest-app
 
 # Install dependencies
 flutter pub get
@@ -24,10 +24,6 @@ flutter pub get
 # Run the app
 flutter run
 
-# Install dependencies
-flutter pub get
 
-# Run the app
-flutter run
 
 
